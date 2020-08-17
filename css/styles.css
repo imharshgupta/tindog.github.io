@@ -1,0 +1,145 @@
+body{
+  text-align: center;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 50px;
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+#cta{
+  background-color: #ff4c68;
+  margin: 50px auto 80px auto;
+}
+#features{
+  padding-top: 40px;
+position: relative;
+  background-color: #fff;
+  z-index: 10;
+}
+#press{
+    background-color: pink;
+      margin-bottom: 60px;
+      padding-bottom: 80px;
+}
+#testimonials{
+  background-color: pink;
+  margin-top: 75px;
+
+}
+#title{
+  background-color: #ff4c68;
+    padding-left: 40px;
+    padding-bottom: 109px;
+}
+.brand{
+  height: 90px;
+  width: 240px;
+  margin: auto 2.2% auto 2.2% ;
+}
+.btn-dark{
+  margin: auto 3% auto 2%;
+}
+.container-fluid{
+
+}
+.d-block{
+  height: 100px;
+  width: 10px;
+border-radius: 100%;
+}
+.dogimg{
+  height: 130px;
+  border-radius: 100%;
+  margin-bottom: 80px;
+  }
+  .end{
+    margin:  70px auto 50px auto;
+  padding-top: 60px;
+  font-size: 40px;
+color: #fff;
+  }
+  .endl{
+    padding-top: 15px ;
+  }
+  .fab{
+    padding-left: 12px;
+    color: black;
+  }
+  .fab:hover{
+    padding-left: 12px;
+    color: grey;
+  }
+  .foot{
+    padding-bottom: 20px;
+  }
+.index{
+  z-index: 10;
+}
+.intro{
+  padding-left: 15%;
+  padding-top: 10%;
+  line-height: 10;
+  color: #fff;
+  padding-right: 0;
+}
+.intro2{
+  margin:  80px auto 55px auto;
+}
+.introline{
+  padding-bottom: 45px;
+}
+.img{
+  position: absolute;
+  right: 140px;
+  height:  770px;
+  width: 405px;
+  padding-top: 4%;
+  padding-left: 10%;
+  padding-bottom: 9%;
+  padding-right: 0;
+  transform: rotate(20deg);
+ margin: 10px 0px;
+}
+.lastbtn{
+  padding-bottom: 70px;
+}
+.line{
+  margin: auto 30% 3% 30%;
+padding-top: 70px;
+}
+.navbar-nav{
+  font-size: 26px;
+}
+.navbar-brand{
+  font-size: 35px;
+  font-weight: bold;
+  font-family: 'Ubuntu', sans-serif;
+  padding-right: 0;
+}
+.row{
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 50px;
+}
+.tick{
+  margin: 60px auto 10px auto;
+font-size: 70px;
+color: #ff4c68;
+ }
+ .tick:hover{
+   margin: 60px auto 10px auto;
+ font-size: 70px;
+ color: pink;
+  }
+@media(max-width:1028px)
+{
+  .img{
+    position: relative;
+  transform: rotate(0);
+  }
+}
